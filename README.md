@@ -3,7 +3,7 @@
 ## Simulating PDEs on a Quantum Computer
 
 
-In my undergrad at Cornell, I researched methods of using Quantum Computers to solve Partial Differential Equations, including the Heat, Advection, and Burger's Equations. I created simulations that can run on IBM's Quantum Computer. Here are some of my results. The Heat Equation (left) can accurately be solved on a quantum computer, while the Advection Equation (right) cannot due to discretization errors. 
+This repository contains simulations of the Heat and Advection Equations that can run on IBM's Quantum Computer. Here are some of my results - the Heat Equation (left) can accurately be solved on a quantum computer, while the Advection Equation (right) cannot due to discretization errors. 
 
 <p align="center">
 <img src="/images/0.png" alt="heat" width="400"/>
