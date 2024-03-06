@@ -10,3 +10,6 @@ This repository contains research on using IBM's Quantum Computer to simulate PD
 <img src="/images/1.png" alt="advection" width="400"/>
 </p>
 
+
+
+Interestingly, both of these equations are solved using same exact quantum circuits. In my paper, we talk about extending these simulations to the Inviscid Burger's Equation.
