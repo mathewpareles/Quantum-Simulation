@@ -3,7 +3,7 @@
 ## Simulating PDEs on a Quantum Computer
 
 
-This repository contains research on using IBM's Quantum Computer to simulate PDEs. The Heat Equation (left) can accurately be solved on a quantum computer, while the Advection Equation (right) cannot due to discretization errors. 
+This repository contains research on using IBM's Quantum Computer to simulate PDEs. We solve the Heat Equation (left) accurately on a quantum computer. The Advection Equation (right) cannot be solved accurately due to discretization errors. 
 
 <p align="center">
 <img src="/images/0.png" alt="heat" width="400"/>
@@ -12,4 +12,4 @@ This repository contains research on using IBM's Quantum Computer to simulate PD
 
 
 
-Both of these equations are solved using the same quantum circuits. In my paper, we talk about extending these simulations to the Inviscid Burger's Equation and other PDEs in general.
+We solve both of these equations using the same quantum circuits. In the paper, we talk about extending these simulations to the Inviscid Burger's Equation and other PDEs in general.
