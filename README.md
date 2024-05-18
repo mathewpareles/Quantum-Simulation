@@ -12,4 +12,4 @@ This repository contains research on using IBM's Quantum Computer to simulate PD
 
 
 
-One can solve both of these equations using the same quantum circuits, and we talk about extending these simulations to the Inviscid Burger's Equation and other PDEs in general.
+One can solve both of these equations using the same quantum circuits, and we talk about extending these simulations to the Inviscid Burger's Equation and other PDEs in general, with applications in finance.
